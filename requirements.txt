@@ -1,0 +1,2 @@
+opencv-python        # Core OpenCV functionality
+opencv-python-headless  # For systems where GUI is not available (optional)
