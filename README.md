@@ -15,7 +15,7 @@ A Python application that uses OpenCV to perform real-time face detection throug
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/vishal4743/FaceDetectionProject.git
+   git clone https://github.com/vishal4742/FaceDetectionProject.git
    cd FaceDetectionProject
    
 ###HOW TO STOP:
